@@ -1,0 +1,20 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/* 
+ * File:   Espada.cpp
+ * Author: jgr97
+ * 
+ * Created on 30 de abril de 2019, 11:04
+ */
+
+#include "Espada.h"
+
+string Espada::getDescripcion() const{
+    string sword= "A sword";
+    
+    return sword;
+}
